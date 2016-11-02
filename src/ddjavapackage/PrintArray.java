@@ -1,4 +1,4 @@
-package ddjavapackage;
+ package ddjavapackage;
 
 import java.util.Scanner;
 
