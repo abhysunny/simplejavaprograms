@@ -1,11 +1,15 @@
- package ddjavapackage;
+package ddjavapackage;
 
 import java.util.Scanner;
+/*
+Program to print an array of numbers
+Author: Abhy Sunny
+Date: 01/08/2018
+*/
 
 public class PrintArray {
 	public static void main(String[] args) {
-    //Program to print an array of numbers
-	System.out.println("Enter the no: of elements to be printed");
+  	System.out.println("Enter the no: of elements to be printed");
 	Scanner sc = new Scanner(System.in);
 	int n = sc.nextInt(); 
 	
