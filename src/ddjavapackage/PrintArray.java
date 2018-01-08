@@ -1,11 +1,11 @@
-package ddjavapackage;
-
-import java.util.Scanner;
 /*
 Program to print an array of numbers
 Author: Abhy Sunny
 Date: 01/08/2018
 */
+package ddjavapackage;
+
+import java.util.Scanner;
 
 public class PrintArray {
 	public static void main(String[] args) {
