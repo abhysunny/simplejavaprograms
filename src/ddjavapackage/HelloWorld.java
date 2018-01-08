@@ -1,7 +1,9 @@
 package ddjavapackage;
 
 /*
- This is Java Program to print Hello World
+This is Java Program to print Hello World
+Author: Abhy Sunny
+Date: 01/08/2018
  */
 
 public class HelloWorld {
