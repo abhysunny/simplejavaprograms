@@ -14,3 +14,4 @@ List of Programs
 8) StringCompare.java
 9) StringReversal.java
 10) SumArray.java
+11) DecimalToBinary.java
