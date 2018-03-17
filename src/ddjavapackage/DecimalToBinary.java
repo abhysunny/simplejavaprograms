@@ -16,6 +16,7 @@ public class DecimalToBinary {
 	Scanner sc = new Scanner(System.in);
 	System.out.println("Enter the decimal no: to be coverted to binary?");
 	int decimal = sc.nextInt();
+	int value = decimal;
 	
 	int binary [] = new int[20];
 	int index = 0;
@@ -29,7 +30,7 @@ public class DecimalToBinary {
 		decimal = decimal/2;	
 	}
 	
-	System.out.print("Binary for" + decimal + "is:");
+	System.out.print("Binary for " + value + " is:");
 	for(int i=index;i>=0;i--) {
 			System.out.print(binary[i]);
 			
