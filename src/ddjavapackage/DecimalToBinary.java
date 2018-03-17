@@ -6,6 +6,7 @@ import java.util.Scanner;
 This is Java Program to convert a decimal no: to binary
 Author: Abhy Sunny
 Date: 02/11/2018 mm/dd//yyyy
+Updated Date: 03/17/2018
  */
 
 public class DecimalToBinary {
