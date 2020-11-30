@@ -10,7 +10,7 @@ public class PrintindexofString {
 		System.out.println("Enter the String value");
 		Scanner sc = new Scanner(System.in);
 		String word = sc.nextLine();
-		System.out.println("Enter element  for which you have to find index ");
+		System.out.println("Enter element for which you have to find index ");
 	    String index = sc.nextLine();
 	    
 	    System.out.println("Index of " +index +" in " +word +"is:"+ word.indexOf(index));
