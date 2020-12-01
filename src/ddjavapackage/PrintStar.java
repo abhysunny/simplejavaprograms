@@ -1,3 +1,10 @@
+/*
+This is Java Program to print a pattern
+Author: Abhy Sunny
+Date: 01/12/2020 mm/dd//yyyy
+Updated Date: 01/12/2020
+ */
+
 package ddjavapackage;
 
 public class PrintStar {
